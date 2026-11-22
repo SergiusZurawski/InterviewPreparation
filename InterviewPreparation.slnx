@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Project01-Basics/">
+    <Project Path="Practice/Project01-Basics/src/ActivityMonitor.Api/ActivityMonitor.Api.csproj" />
+  </Folder>
+  <Folder Name="/Project02-Async/">
+    <Project Path="Practice/Project02-Async/src/UsageSync.Api/UsageSync.Api.csproj" />
+  </Folder>
+</Solution>
